@@ -1,7 +1,4 @@
-"""
-Sergio Paniagua
-1001523347
-"""
+
 
 
 #import tools and libraries
